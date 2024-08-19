@@ -1,6 +1,6 @@
 package odevler.bolum02;
 
-import java.nio.channels.Pipe;
+
 import java.util.Scanner;
 
 public class Q02 {
@@ -10,7 +10,7 @@ public class Q02 {
         double yarıcap =scanner.nextDouble();
         System.out.println("Lütfen yükseklik degerini giriniz!");
         double yukseklık =scanner.nextDouble();
-        double pi = 3.14;5
+        double pi = 3.14;
         double alan = yarıcap*yarıcap*pi;
         double hacim = alan*yukseklık;
         System.out.println("ALAN = "+alan);
