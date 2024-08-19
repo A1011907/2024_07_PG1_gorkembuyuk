@@ -12,7 +12,7 @@ public class Q04 {
         double kilogram =pound*0.45359237;
         System.out.println("ağırlığınıız kilo olarak karşılığı = "+kilogram);
         
-
+/
 
 
 /////////
